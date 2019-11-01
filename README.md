@@ -1,5 +1,5 @@
 # validar_input_scanner
-Pacote Java para validação de entrada de dados via classe Scanner (Console)
+Classe Java para validação de entrada de dados via classe Scanner (Console)
 
 ## Exemplos de utilização:
 https://github.com/Viniciusalopes/validar_input_scanner/blob/master/ValidarInputScanner/src/validarinputscanner/Principal.java
