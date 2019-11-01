@@ -1,4 +1,4 @@
-# validar_input_scanner
+# ValidaInput
 Classe Java para validação de entrada de dados via classe Scanner (Console)
 
 ## Exemplos de utilização:
