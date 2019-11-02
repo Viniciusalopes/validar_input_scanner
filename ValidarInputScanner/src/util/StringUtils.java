@@ -29,11 +29,7 @@
  */
 package util;
 
-/**
- *
- * @author vovox
- */
-public class Textos {
+public class StringUtils {
 
     /**
      * Repete um texto n vezes.

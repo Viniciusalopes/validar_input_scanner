@@ -37,7 +37,7 @@ import java.util.Scanner;
 import static util.ValidaInput.*;
 
 // Importa os métodos da classe Textos
-import static util.Textos.*;
+import static util.StringUtils.*;
 
 public class Principal {
 
